@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace WeChat.SDK.Helpers.JSSDK
+namespace WeChat.SDK
 {
     public class JSSDKHelper
     {
