@@ -3,9 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WeChat.SDK.Entities;
-
-namespace WeChat.SDK.AdvancedAPIs.JSTicket.JSTicketJson
+namespace WeChat.SDK
 {
     public class TicketJson : WxJsonResult
     {

@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WeChat.SDK.Entities;
 
-namespace WeChat.SDK.AdvancedAPIs.Token.TokenJson
+
+namespace WeChat.SDK
 {
     public class AccessTokenJson : WxJsonResult
     {

@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WeChat.SDK.Helpers
+namespace WeChat.SDK
 {
     /// <summary>
     /// MD5UtilHelper 的摘要说明。

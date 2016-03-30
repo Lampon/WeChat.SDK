@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WeChat.SDK.AdvancedAPIs.Token.TokenJson;
 using WeChat.SDK.Utilities;
 
-namespace WeChat.SDK.AdvancedAPIs.Token
+namespace WeChat.SDK
 {
     public static class TokenApi
     {

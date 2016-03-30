@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WeChat.SDK.Helpers
+namespace WeChat.SDK
 {
     public class SHA1UtilHelper
     {

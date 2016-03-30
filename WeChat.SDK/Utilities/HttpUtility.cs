@@ -7,7 +7,6 @@ using System.Net.Security;
 using System.Text;
 using System.Threading.Tasks;
 using System.Web.Script.Serialization;
-using WeChat.SDK.Entities;
 
 namespace WeChat.SDK.Utilities
 {

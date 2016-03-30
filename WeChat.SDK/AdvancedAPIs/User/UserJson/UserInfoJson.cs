@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WeChat.SDK.Entities;
 
-namespace WeChat.SDK.AdvancedAPIs.User.UserJson
+namespace WeChat.SDK
 {
     /// <summary>
     /// 高级接口获取的用户信息

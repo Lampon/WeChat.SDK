@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Web.Script.Serialization;
-using WeChat.SDK.AdvancedAPIs.User.UserJson;
-using WeChat.SDK.Entities;
 using WeChat.SDK.Utilities;
 
-namespace WeChat.SDK.AdvancedAPIs.User
+namespace WeChat.SDK
 {
     /// <summary>
     /// 用户接口

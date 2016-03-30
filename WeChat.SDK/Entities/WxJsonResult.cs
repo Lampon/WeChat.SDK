@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WeChat.SDK.Entities
+namespace WeChat.SDK
 {
     /// <summary>
     /// 公众号JSON返回结果（用于菜单接口等）

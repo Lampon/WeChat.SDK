@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WeChat.SDK.Entities;
 
-namespace WeChat.SDK.AdvancedAPIs.User.UserJson
+
+namespace WeChat.SDK
 { /// <summary>
   /// 批量获取用户基本信息数据
   /// </summary>

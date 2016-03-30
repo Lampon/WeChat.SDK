@@ -44,6 +44,13 @@
   <ItemGroup>
     <Compile Include="AdvancedAPIs\JSTicket\JSTicketApi.cs" />
     <Compile Include="AdvancedAPIs\JSTicket\JSTicketJson\TicketJson.cs" />
+    <Compile Include="AdvancedAPIs\OAuth\OAuthApi.cs" />
+    <Compile Include="AdvancedAPIs\OAuth\OAuthJson\OAuthAccessToken.cs" />
+    <Compile Include="AdvancedAPIs\OAuth\OAuthJson\OAuthUserInfo.cs" />
+    <Compile Include="AdvancedAPIs\TemplateMessage\TemplateApi.cs" />
+    <Compile Include="AdvancedAPIs\TemplateMessage\TemplateMessageJson\SendTemplateMessageResult.cs" />
+    <Compile Include="AdvancedAPIs\TemplateMessage\TemplateMessageJson\TemplateDataItem.cs" />
+    <Compile Include="AdvancedAPIs\TemplateMessage\TemplateMessageJson\TempleteModel.cs" />
     <Compile Include="AdvancedAPIs\Token\TokenApi.cs" />
     <Compile Include="AdvancedAPIs\Token\TokenJson\AccessTokenJson.cs" />
     <Compile Include="AdvancedAPIs\User\UserApi.cs" />
