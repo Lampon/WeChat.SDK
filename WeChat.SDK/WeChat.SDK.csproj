@@ -44,6 +44,8 @@
   <ItemGroup>
     <Compile Include="AdvancedAPIs\JSTicket\JSTicketApi.cs" />
     <Compile Include="AdvancedAPIs\JSTicket\JSTicketJson\TicketJson.cs" />
+    <Compile Include="AdvancedAPIs\Message\Entities\News.cs" />
+    <Compile Include="AdvancedAPIs\Message\Response.cs" />
     <Compile Include="AdvancedAPIs\OAuth\OAuthApi.cs" />
     <Compile Include="AdvancedAPIs\OAuth\OAuthJson\OAuthAccessToken.cs" />
     <Compile Include="AdvancedAPIs\OAuth\OAuthJson\OAuthUserInfo.cs" />
